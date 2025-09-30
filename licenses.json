@@ -1,24 +1,9 @@
 {
   "licenses": [
-  {
-    "serial": "0XX8-0LGD-3PTP-IPO6",
-    "key_hash": "0ff19cb808e5a7290179ad664461a0cf03a9db3c25dfc8b2366402601aca308f"
-  },
-  {
-    "serial": "16H3-0J3B-OAYM-0UE6",
-    "key_hash": "6de4e401717bce566e4ea2aa7edc6156bc090a109a2b844c4f7b65ebc3d3b0f9"
-  },
-  {
-    "serial": "CQNH-WE3F-ACNV-IH09",
-    "key_hash": "254ba30da9d4b7cf794619f61b4c53f4ef81b9c8cfa10ba70d93f83985f7ab80"
-  },
-  {
-    "serial": "RKJ8-U6WX-4I4S-FMIB",
-    "key_hash": "defe56d53cdffdd34adff907259e5e19a08946ea4940b859ad1cf019ed877c70"
-  },
-  {
-    "serial": "5BNK-QP1U-16GU-K155",
-    "key_hash": "4ced968bb409ea23bdfd56df9fa9e39e5ad9da46934f1e6075e36618237233f1"
-  }
-]
+    {
+      "key_hash": "0ff19cb808e5a7290179ad664461a0cf03a9db3c25dfc8b2366402601aca308f",
+      "bound_hwid": "",
+      "revoked": false
+    }
+  ]
 }
