@@ -3,7 +3,7 @@
     {
       "key_hash": "0ff19cb808e5a7290179ad664461a0cf03a9db3c25dfc8b2366402601aca308f",
       "bound_hwid": "",
-      "revoked": false
+      "revoked": true
     }
   ]
 }
