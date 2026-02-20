@@ -4,6 +4,11 @@
       "key_hash": "0ff19cb808e5a7290179ad664461a0cf03a9db3c25dfc8b2366402601aca308f",
       "bound_hwid": "07fbdd117a75f98e29e57b8a0dd4cc758e2e8ef4eadc24f60b67cac0d89074dc",
       "revoked": false
+    },
+    {
+      "key_hash": "98bf4577068340c75aecb1854f9e1fa26ecc5a0b4df2fd918d5071801ab7a36c",
+      "bound_hwid": "",
+      "revoked": false
     }
   ]
 }
