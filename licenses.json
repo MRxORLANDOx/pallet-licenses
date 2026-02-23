@@ -9,6 +9,11 @@
       "key_hash": "98bf4577068340c75aecb1854f9e1fa26ecc5a0b4df2fd918d5071801ab7a36c",
       "bound_hwid": null,
       "revoked": false
+    },
+    {
+      "key_hash": "af9b8c1d176211cf7eb157d185872c6a76e967ef1686b1802f5af23752235ccc",
+      "bound_hwid": null,
+      "revoked": false
     }
   ]
 }
