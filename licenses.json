@@ -1,6 +1,11 @@
 {
   "licenses": [
     {
+      "key_hash": "e405574c1e82d89da90a1f122874dd3a6e2d79bdd6171ec8c1a92533df47c648",
+      "bound_hwid": null,
+      "revoked": false
+    },
+    {
       "key_hash": "0ff19cb808e5a7290179ad664461a0cf03a9db3c25dfc8b2366402601aca308f",
       "bound_hwid": "07fbdd117a75f98e29e57b8a0dd4cc758e2e8ef4eadc24f60b67cac0d89074dc",
       "revoked": false
